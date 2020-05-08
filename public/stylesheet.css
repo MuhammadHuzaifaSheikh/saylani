@@ -1,0 +1,59 @@
+#head,#line{
+    background: #525cff;
+    text-align: center;
+    color: white;
+}
+#btnTop{
+    text-align: right;
+    margin-top: -24px;
+    margin-right: 10px;
+}
+
+
+li{
+    margin: 5px;
+}
+
+a{
+    color: black;
+}
+li:hover{
+    color: white;
+}
+#logo{
+    text-align: right;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.text{
+    text-align: center;
+    padding: 115px;
+padding-top:10px
+}
+
+.col{
+    background:blue;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
+.icon{
+    margin-top: 20px;
+}
+.col-sm{
+    background:blue;
+    height: 200px;
+    text-align: center;
+    color: blue;
+    margin:10px
+}
+.img:hover{
+    width: 450px;
+}
+#foot{
+    background: #525cff;
+}
