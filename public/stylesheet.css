@@ -35,25 +35,34 @@ li:hover{
 padding-top:10px
 }
 
-.col{
-    background:blue;
-    height: 200px;
-    text-align: center;
-    color: white;
-}
+/*.col{*/
+/*    background:blue;*/
+/*    height: 200px;*/
+/*    text-align: center;*/
+/*    color: white;*/
+/*}*/
 .icon{
     margin-top: 20px;
 }
-.col-sm{
-    background:blue;
-    height: 200px;
-    text-align: center;
-    color: blue;
-    margin:10px
-}
+/*.col-sm{*/
+/*    background:blue;*/
+/*    height: 200px;*/
+/*    text-align: center;*/
+/*    color: blue;*/
+/*    margin:10px*/
+/*}*/
 .img:hover{
     width: 450px;
 }
 #foot{
     background: #525cff;
+}
+.imgb{
+    width: 200px;
+}
+#bottom{
+    background: black;
+    color: white;
+    height: 200px;
+    width: 100%;
 }
